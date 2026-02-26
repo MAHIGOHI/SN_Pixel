@@ -1,40 +1,40 @@
 {
-  "updates": [
+  "tools": [
     {
-      "title": "DeepSeek R1 Pro",
-      "description": "The world's most powerful open-source reasoning model is now live. Try complex coding tasks today.",
-      "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400",
+      "name": "ChatGPT 4o",
+      "desc": "The most advanced multimodal AI for reasoning, coding, and creative writing tasks.",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg",
+      "link": "https://chatgpt.com"
+    },
+    {
+      "name": "DeepSeek R1",
+      "desc": "Powerful open-source reasoning model optimized for complex mathematics and logic.",
+      "icon": "https://img.logoipsum.com/296.svg",
       "link": "https://www.deepseek.com/"
     },
     {
-      "title": "💡 Pro AI Tip #1",
-      "description": "Always use 'Chain of Thought' prompting. Tell the AI to 'Think step-by-step' for 90% better results.",
-      "img": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400",
-      "link": "https://aistore.apk.com/tips"
-    },
-    {
-      "title": "Sora Video Engine",
-      "description": "Create high-fidelity 60fps cinematic videos directly from text. Now with natively generated audio.",
-      "img": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?w=400",
-      "link": "https://openai.com/sora"
-    },
-    {
-      "title": "💡 Pro AI Tip #2",
-      "description": "Use 'Few-Shot Prompting' by giving the AI 2-3 examples of the output you want before asking your question.",
-      "img": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400",
-      "link": "https://aistore.apk.com/tips"
-    },
-    {
-      "title": "Midjourney V7",
-      "description": "New hyper-realistic lighting engine. Perfect for architectural visualization and product design.",
-      "img": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=400",
+      "name": "Midjourney V7",
+      "desc": "Experience hyper-realistic image generation with the industry's leading artistic AI engine.",
+      "icon": "https://img.logoipsum.com/284.svg",
       "link": "https://www.midjourney.com/"
     },
     {
-      "title": "💡 Pro AI Tip #3",
-      "description": "To avoid AI hallucinations, ask the AI to 'Cite your sources' or 'Double-check your logic' at the end of the prompt.",
-      "img": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400",
-      "link": "https://aistore.apk.com/tips"
+      "name": "Claude 3.7 Sonnet",
+      "desc": "Anthropic's latest model featuring enhanced computer use and sophisticated coding abilities.",
+      "icon": "https://img.logoipsum.com/258.svg",
+      "link": "https://www.anthropic.com/claude"
+    },
+    {
+      "name": "Runway Gen-3",
+      "desc": "Transform simple text into high-fidelity cinematic videos with native audio generation.",
+      "icon": "https://img.logoipsum.com/211.svg",
+      "link": "https://runwayml.com/"
+    },
+    {
+      "name": "Perplexity AI",
+      "desc": "An AI-native search engine that provides real-time cited answers to any complex query.",
+      "icon": "https://img.logoipsum.com/218.svg",
+      "link": "https://www.perplexity.ai/"
     }
   ]
 }
