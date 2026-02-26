@@ -1,316 +1,40 @@
 {
-  "courses": [
+  "updates": [
     {
-      "category": "AI & Machine Learning",
-      "title": "AI For Everyone",
-      "desc": "Non-technical introduction to artificial intelligence by Andrew Ng (DeepLearning.AI). Explains what AI can and cannot do, business use-cases, workflows, and ethical/practical considerations — ideal for managers and product people who need a strategic understanding of AI.",
-      "link": "https://www.coursera.org/learn/ai-for-everyone"
+      "title": "DeepSeek R1 Pro",
+      "description": "The world's most powerful open-source reasoning model is now live. Try complex coding tasks today.",
+      "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400",
+      "link": "https://www.deepseek.com/"
     },
     {
-      "category": "AI & Machine Learning",
-      "title": "Machine Learning",
-      "desc": "Classic practical introduction to machine learning by Andrew Ng covering supervised learning, linear/logistic regression, neural networks, regularization, and best practices for building ML systems. Contains programming exercises and conceptual intuition for practitioners.",
-      "link": "https://www.coursera.org/learn/machine-learning"
+      "title": "💡 Pro AI Tip #1",
+      "description": "Always use 'Chain of Thought' prompting. Tell the AI to 'Think step-by-step' for 90% better results.",
+      "img": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400",
+      "link": "https://aistore.apk.com/tips"
     },
     {
-      "category": "AI & Machine Learning",
-      "title": "Deep Learning Specialization",
-      "desc": "Comprehensive multi-course specialization from DeepLearning.AI covering neural networks, convolutional networks, sequence models, and practical techniques like transfer learning and hyperparameter tuning. Hands-on assignments use TensorFlow and focus on production-ready models.",
-      "link": "https://www.coursera.org/specializations/deep-learning"
+      "title": "Sora Video Engine",
+      "description": "Create high-fidelity 60fps cinematic videos directly from text. Now with natively generated audio.",
+      "img": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?w=400",
+      "link": "https://openai.com/sora"
     },
     {
-      "category": "AI & Machine Learning",
-      "title": "Generative AI with Large Language Models",
-      "desc": "Focused course on modern generative AI and large language models: architecture basics (transformers), prompt engineering, safety, evaluation, and practical applications like summarization, code generation, and chatbots. Includes labs demonstrating real LLM integrations.",
-      "link": "https://www.deeplearning.ai/"
+      "title": "💡 Pro AI Tip #2",
+      "description": "Use 'Few-Shot Prompting' by giving the AI 2-3 examples of the output you want before asking your question.",
+      "img": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400",
+      "link": "https://aistore.apk.com/tips"
     },
     {
-      "category": "Data Science & Analytics",
-      "title": "Python for Everybody Specialization",
-      "desc": "Beginner-to-intermediate series by the University of Michigan that teaches Python programming fundamentals, data structures, web scraping, working with APIs, and databases — includes practical projects to build coding confidence for data tasks.",
-      "link": "https://www.coursera.org/specializations/python"
+      "title": "Midjourney V7",
+      "description": "New hyper-realistic lighting engine. Perfect for architectural visualization and product design.",
+      "img": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=400",
+      "link": "https://www.midjourney.com/"
     },
     {
-      "category": "Data Science & Analytics",
-      "title": "IBM Data Science Professional Certificate",
-      "desc": "Multi-course professional certificate from IBM covering Python for data science, SQL, data visualization, basic machine learning, and capstone projects. Designed to prepare learners for entry-level data roles and portfolio building with hands-on labs.",
-      "link": "https://www.coursera.org/professional-certificates/ibm-data-science"
-    },
-    {
-      "category": "Data Science & Analytics",
-      "title": "Data Science Specialization (Johns Hopkins)",
-      "desc": "Comprehensive R-based specialization covering data wrangling, exploratory data analysis, statistical inference, regression models, and reproducible research. Projects and capstones prepare learners for applied data science workflows.",
-      "link": "https://www.coursera.org/specializations/jhu-data-science"
-    },
-    {
-      "category": "Data Science & Analytics",
-      "title": "Applied Data Science with Python",
-      "desc": "Practical course series that teaches pandas, matplotlib, scikit-learn, and real-world data workflows for analysis and visualization. Emphasizes applied case studies and end-to-end insights rather than just theory.",
-      "link": "https://www.coursera.org/specializations/data-science-python"
-    },
-    {
-      "category": "Programming & Development",
-      "title": "CS50's Introduction to Computer Science",
-      "desc": "Harvard's well-known CS50 course: problem solving, algorithms, C, Python, SQL and web programming fundamentals with challenging problem sets and a strong emphasis on computational thinking and project-based learning.",
-      "link": "https://www.edx.org/course/cs50s-introduction-to-computer-science"
-    },
-    {
-      "category": "Programming & Development",
-      "title": "Python 3 Programming Specialization",
-      "desc": "A complete path that covers Python syntax, data structures, object-oriented programming, testing, and building small applications. Good for learners who want structured progression from basics to practical scripting.",
-      "link": "https://www.coursera.org/specializations/python-3-programming"
-    },
-    {
-      "category": "Programming & Development",
-      "title": "Full Stack Web Development with React",
-      "desc": "Project-driven specialization focusing on HTML, CSS, JavaScript, React for front-end, Node.js/Express for back-end, REST APIs and database integration. Includes deployment and a capstone web application project.",
-      "link": "https://www.coursera.org/specializations/full-stack-react"
-    },
-    {
-      "category": "Programming & Development",
-      "title": "Android App Development with Kotlin",
-      "desc": "Google-backed learning paths and nanodegree-style courses teaching Kotlin, Android SDK, Jetpack components, UI design patterns, and publishing to the Play Store — designed for new Android developers.",
-      "link": "https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803"
-    },
-    {
-      "category": "Mobile & Cross-Platform",
-      "title": "Flutter & Dart - The Complete Guide",
-      "desc": "Hands-on course for building cross-platform mobile apps with Flutter and Dart: widgets, state management, routing, backend integration, and production deployment. Includes sample apps and UI best practices.",
-      "link": "https://www.udemy.com/course/flutter-dart-the-complete-guide/"
-    },
-    {
-      "category": "Cloud & DevOps",
-      "title": "AWS Cloud Practitioner Essentials",
-      "desc": "Introductory AWS training covering cloud concepts, AWS core services (EC2, S3, Lambda), basic security, and pricing. Good starting point before deeper AWS certification paths.",
-      "link": "https://www.aws.training/Details/Curriculum?id=20685"
-    },
-    {
-      "category": "Cloud & DevOps",
-      "title": "Google Cloud Professional Data Engineer",
-      "desc": "Comprehensive preparation for data engineering on Google Cloud Platform: data pipelines, BigQuery, data processing, operationalization and ML model deployment — includes hands-on labs on GCP.",
-      "link": "https://cloud.google.com/training/data-ml"
-    },
-    {
-      "category": "Cloud & DevOps",
-      "title": "Docker and Kubernetes: The Practical Guide",
-      "desc": "Practical course that teaches containerization with Docker and orchestration with Kubernetes: images, volumes, networking, deployments and scaling microservices in production-grade environments.",
-      "link": "https://www.udemy.com/course/docker-mastery/"
-    },
-    {
-      "category": "Cloud & DevOps",
-      "title": "DevOps on AWS",
-      "desc": "Understand DevOps culture and tools using AWS: CI/CD pipelines, CodePipeline, CodeBuild, infrastructure as code with CloudFormation and automation best practices for production delivery.",
-      "link": "https://www.aws.training/Details/Video?id=15858"
-    },
-    {
-      "category": "Design & UX",
-      "title": "Google UX Design Professional Certificate",
-      "desc": "End-to-end UX program teaching user research, wireframing, prototyping in Figma, usability testing, and portfolio creation—geared toward career changers aiming for junior UX roles.",
-      "link": "https://www.coursera.org/professional-certificates/google-ux-design"
-    },
-    {
-      "category": "Design & UX",
-      "title": "UI / UX Design Specialization",
-      "desc": "Comprehensive course sequence covering design thinking, interaction design, prototyping, testing and building design systems. Emphasizes a portfolio-first approach with case studies.",
-      "link": "https://www.coursera.org/specializations/ui-ux-design"
-    },
-    {
-      "category": "Design & UX",
-      "title": "Interaction Design Foundation: Visual Design",
-      "desc": "Practical modules on visual hierarchy, typography, color, layout and UI components taught by experienced designers. Focuses on design fundamentals that improve user comprehension and conversion.",
-      "link": "https://www.interaction-design.org/courses"
-    },
-    {
-      "category": "Marketing & Growth",
-      "title": "Digital Marketing Specialization",
-      "desc": "End-to-end digital marketing program: SEO, content marketing, social media, analytics, and paid advertising. Includes practical templates for campaign execution and growth experiments.",
-      "link": "https://www.coursera.org/specializations/digital-marketing"
-    },
-    {
-      "category": "Marketing & Growth",
-      "title": "Meta Social Media Marketing Professional Certificate",
-      "desc": "Practical training from Meta covering content strategy, ad campaign setup on Facebook & Instagram, audience targeting, measurement and creative testing — tailored for social media marketers.",
-      "link": "https://www.coursera.org/professional-certificates/meta-social-media-marketing"
-    },
-    {
-      "category": "Marketing & Growth",
-      "title": "SEO Specialization",
-      "desc": "In-depth coverage of on-page, off-page and technical SEO, keyword research, content optimization, and performance measurement. Real-world projects to improve organic traffic for websites.",
-      "link": "https://www.coursera.org/specializations/seo"
-    },
-    {
-      "category": "Marketing & Growth",
-      "title": "Google Ads Search Certification (Skillshop)",
-      "desc": "Official Google Ads training on search campaigns, match types, bidding strategies and conversion tracking. Good for marketers who manage PPC campaigns and optimize ad ROI.",
-      "link": "https://skillshop.withgoogle.com/"
-    },
-    {
-      "category": "Business & Entrepreneurship",
-      "title": "Foundations of Business Strategy",
-      "desc": "Course on business strategy basics: competitive advantage, value proposition, market analysis and strategic frameworks to evaluate and build business models.",
-      "link": "https://www.coursera.org/learn/wharton-strategic-management"
-    },
-    {
-      "category": "Business & Entrepreneurship",
-      "title": "Startup: Launching an Innovative Business",
-      "desc": "Practical course covering idea validation, MVP building, product-market fit, go-to-market strategies, and early-stage growth tactics — ideal for founders and solo builders.",
-      "link": "https://www.coursera.org/specializations/wharton-startup"
-    },
-    {
-      "category": "Business & Entrepreneurship",
-      "title": "Finance for Non-Finance Professionals",
-      "desc": "Core financial concepts explained in plain language: financial statements, budgeting, valuation basics and KPIs useful for managers and founders to make data-driven decisions.",
-      "link": "https://www.coursera.org/learn/finance-for-non-finance"
-    },
-    {
-      "category": "Productivity & Tools",
-      "title": "Notion Mastery: Productivity and GTD",
-      "desc": "Practical workflows to use Notion for note-taking, project management, personal knowledge base and team collaboration — includes templates and customization tips to scale productivity.",
-      "link": "https://www.notion.so/"
-    },
-    {
-      "category": "Productivity & Tools",
-      "title": "Microsoft Excel - Advanced",
-      "desc": "Advanced training in Excel including formulas, Power Query, pivot tables, macros and automation to create dashboards and speed up repetitive business tasks.",
-      "link": "https://www.coursera.org/specializations/excel"
-    },
-    {
-      "category": "Productivity & Tools",
-      "title": "Power BI Data Visualization",
-      "desc": "Learn data modeling, DAX basics, and building interactive dashboards with Power BI to create business intelligence reports for stakeholders.",
-      "link": "https://learn.microsoft.com/en-us/training/powerplatform/power-bi/"
-    },
-    {
-      "category": "Security & Networking",
-      "title": "Cybersecurity Fundamentals",
-      "desc": "Introduction to cybersecurity principles: threat modeling, network security basics, common attack vectors and defensive strategies. Ideal for IT professionals starting in security.",
-      "link": "https://www.coursera.org/learn/ibm-cybersecurity"
-    },
-    {
-      "category": "Security & Networking",
-      "title": "Ethical Hacking / Penetration Testing",
-      "desc": "Hands-on introduction to penetration testing methodologies, reconnaissance, exploitation and remediation. Teaches responsible disclosure and ethical practices.",
-      "link": "https://www.udemy.com/course/learn-ethical-hacking-from-scratch/"
-    },
-    {
-      "category": "Security & Networking",
-      "title": "Network Security & Administration",
-      "desc": "Practical networking fundamentals with a security focus: routing, switching, firewalls, VPNs and monitoring tools to manage secure enterprise networks.",
-      "link": "https://www.coursera.org/learn/network-security"
-    },
-    {
-      "category": "Creative & Multimedia",
-      "title": "Graphic Design Specialization",
-      "desc": "Covers typography, image composition, color theory, branding and practical workflows with design tools like Adobe Photoshop and Illustrator or Canva — includes portfolio projects.",
-      "link": "https://www.coursera.org/specializations/graphic-design"
-    },
-    {
-      "category": "Creative & Multimedia",
-      "title": "Video Editing for Social Media",
-      "desc": "Practical editing techniques for short-form content: pacing, transitions, color grading, sound design and export settings optimized for platforms like YouTube and TikTok.",
-      "link": "https://www.udemy.com/course/video-editing/"
-    },
-    {
-      "category": "Creative & Multimedia",
-      "title": "Motion Graphics with After Effects",
-      "desc": "Animation fundamentals, keyframe techniques and After Effects workflows to build motion assets, intros, and animated social media content.",
-      "link": "https://www.coursera.org/learn/motion-design"
-    },
-    {
-      "category": "E-commerce & Sales",
-      "title": "E-commerce Essentials: Shopify",
-      "desc": "Hands-on guide to set up a Shopify store, manage products, payments, shipping, and marketing fundamentals to start an online retail business.",
-      "link": "https://www.shopify.com/learn"
-    },
-    {
-      "category": "E-commerce & Sales",
-      "title": "Amazon FBA Selling",
-      "desc": "Practical course on selling on Amazon using the FBA model: product research, sourcing, listing optimization, PPC basics and inventory management strategies.",
-      "link": "https://www.udemy.com/course/amazon-fba/"
-    },
-    {
-      "category": "E-commerce & Sales",
-      "title": "Affiliate Marketing Strategy",
-      "desc": "Step-by-step guide to building content funnels, choosing affiliate niches, conversion-focused content and tracking for monetization via affiliate programs.",
-      "link": "https://www.coursera.org/learn/affiliate-marketing"
-    },
-    {
-      "category": "Freelancing & Careers",
-      "title": "Freelancing Foundations: Pitch & Pricing",
-      "desc": "Learn how to create proposals, price services, onboard clients, manage scope and retain clients long-term — practical guidance for new freelancers.",
-      "link": "https://www.coursera.org/learn/freelancing"
-    },
-    {
-      "category": "Freelancing & Careers",
-      "title": "LinkedIn Profile & Personal Branding",
-      "desc": "Optimize LinkedIn profile, build a professional network, create content that attracts recruiters and clients, and use LinkedIn features for job search and lead generation.",
-      "link": "https://www.coursera.org/learn/influencer-marketing"
-    },
-    {
-      "category": "Freelancing & Careers",
-      "title": "Resume & Interview Masterclass",
-      "desc": "Create ATS-friendly resumes, craft compelling cover letters and master interview techniques with practical role-play and answer frameworks to increase hiring success.",
-      "link": "https://www.coursera.org/learn/resume"
-    },
-    {
-      "category": "Analytics & BI",
-      "title": "Google Data Analytics Professional Certificate",
-      "desc": "Skill-focused certificate teaching data cleaning, analysis, visualization, R and SQL fundamentals, along with real case projects to prepare learners for entry-level data analyst roles.",
-      "link": "https://www.coursera.org/professional-certificates/google-data-analytics"
-    },
-    {
-      "category": "Analytics & BI",
-      "title": "Tableau for Data Visualization",
-      "desc": "Learn to create dashboards, use connectors, calculate fields and present insights via interactive visualizations using Tableau Desktop and Tableau Public.",
-      "link": "https://www.coursera.org/learn/data-visualization-tableau"
-    },
-    {
-      "category": "Analytics & BI",
-      "title": "Applied Machine Learning in Python",
-      "desc": "Practical ML course focusing on Python tools (scikit-learn), model selection, cross-validation, pipelines and deployment-ready modeling approaches for production scenarios.",
-      "link": "https://www.coursera.org/learn/python-machine-learning"
-    },
-    {
-      "category": "AI & Machine Learning",
-      "title": "Natural Language Processing (NLP)",
-      "desc": "Core NLP concepts: tokenization, embeddings, sequence models, transformers, sentiment analysis, and practical projects building chatbots and text classifiers.",
-      "link": "https://www.coursera.org/specializations/natural-language-processing"
-    },
-    {
-      "category": "AI & Machine Learning",
-      "title": "Computer Vision with TensorFlow",
-      "desc": "Learn image processing, CNNs, object detection, segmentation, and practical deployment of computer vision models using TensorFlow and related tools.",
-      "link": "https://www.coursera.org/learn/computer-vision-tensorflow"
-    },
-    {
-      "category": "Programming & Development",
-      "title": "Java Programming and Software Engineering Fundamentals",
-      "desc": "Sequence of courses teaching Java, data structures, software engineering practices and project-based assignments to prepare for backend and application development roles.",
-      "link": "https://www.coursera.org/specializations/java-programming"
-    },
-    {
-      "category": "Programming & Development",
-      "title": "Modern JavaScript From The Beginning",
-      "desc": "Comprehensive practical JavaScript course covering ES6+, asynchronous programming, DOM manipulation, and building interactive web applications.",
-      "link": "https://www.udemy.com/course/modern-javascript-from-the-beginning/"
-    },
-    {
-      "category": "Cloud & DevOps",
-      "title": "Microsoft Azure Fundamentals",
-      "desc": "Official Azure foundational training covering cloud concepts, core Azure services, pricing, security and compliance — a starting point for Azure certifications and cloud roles.",
-      "link": "https://learn.microsoft.com/en-us/training/azure/"
-    },
-    {
-      "category": "Cloud & DevOps",
-      "title": "Serverless Machine Learning with AWS Lambda",
-      "desc": "Integration-focused course showing how to serve ML models using serverless architectures, AWS Lambda, API Gateway and monitoring to create scalable inference endpoints.",
-      "link": "https://www.aws.training/"
-    },
-    {
-      "category": "Design & UX",
-      "title": "Prototyping and Design Systems (Figma)",
-      "desc": "Hands-on course teaching Figma workflows, design systems, prototyping, and collaborative design processes used in product teams to ship consistent UI components.",
-      "link": "https://www.coursera.org/learn/prototyping-design-systems"
+      "title": "💡 Pro AI Tip #3",
+      "description": "To avoid AI hallucinations, ask the AI to 'Cite your sources' or 'Double-check your logic' at the end of the prompt.",
+      "img": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400",
+      "link": "https://aistore.apk.com/tips"
     }
-]
-    
+  ]
+}
