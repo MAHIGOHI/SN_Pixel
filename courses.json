@@ -1,46 +1,39 @@
 {
   "tools": [
     {
-      "name": "ChatGPT 4o",
-      "desc": "The most advanced multimodal AI for reasoning, coding, and creative writing tasks.",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg",
-      "link": "https://chatgpt.com",
-      "badge": "⭐ TOP PICK"
+      "name": "Google Gemini",
+      "desc": "Google's most capable multimodal AI model for writing, planning, data analysis, and coding.",
+      "icon": "https://www.google.com/s2/favicons?domain=gemini.google.com&sz=256",
+      "link": "https://gemini.google.com/",
+      "badge": "✨ MULTIMODAL"
     },
     {
-      "name": "DeepSeek R1",
-      "desc": "Powerful open-source reasoning model optimized for complex mathematics and logic.",
-      "icon": "https://img.logoipsum.com/296.svg",
-      "link": "https://www.deepseek.com/",
-      "badge": "💻 OPEN SOURCE"
+      "name": "Suno AI",
+      "desc": "Generate high-quality, full-length songs with vocals and realistic instrumentation from text prompts.",
+      "icon": "https://www.google.com/s2/favicons?domain=suno.com&sz=256",
+      "link": "https://suno.com/",
+      "badge": "🎵 MUSIC AI"
     },
     {
-      "name": "Midjourney V7",
-      "desc": "Experience hyper-realistic image generation with the industry's leading artistic AI engine.",
-      "icon": "https://img.logoipsum.com/284.svg",
-      "link": "https://www.midjourney.com/",
-      "badge": "🎨 CREATIVE"
+      "name": "ElevenLabs",
+      "desc": "Industry-leading AI voice generator for hyper-realistic text-to-speech and advanced voice cloning.",
+      "icon": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=256",
+      "link": "https://elevenlabs.io/",
+      "badge": "🎙️ VOICE AI"
     },
     {
-      "name": "Claude 3.7 Sonnet",
-      "desc": "Anthropic's latest model featuring enhanced computer use and sophisticated coding abilities.",
-      "icon": "https://img.logoipsum.com/258.svg",
-      "link": "https://www.anthropic.com/claude",
-      "badge": "👨‍💻 CODING PRO"
+      "name": "OpenAI Sora",
+      "desc": "An advanced generative AI model capable of creating highly realistic and imaginative long-form videos.",
+      "icon": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "link": "https://openai.com/sora",
+      "badge": "🎥 VIDEO GEN"
     },
     {
-      "name": "Runway Gen-3",
-      "desc": "Transform simple text into high-fidelity cinematic videos with native audio generation.",
-      "icon": "https://img.logoipsum.com/211.svg",
-      "link": "https://runwayml.com/",
-      "badge": "🎬 VIDEO AI"
-    },
-    {
-      "name": "Perplexity AI",
-      "desc": "An AI-native search engine that provides real-time cited answers to any complex query.",
-      "icon": "https://img.logoipsum.com/218.svg",
-      "link": "https://www.perplexity.ai/",
-      "badge": "🔍 REAL-TIME"
+      "name": "Mistral Le Chat",
+      "desc": "A incredibly fast, multilingual, and highly capable AI assistant built on top-tier European open-weight models.",
+      "icon": "https://www.google.com/s2/favicons?domain=mistral.ai&sz=256",
+      "link": "https://chat.mistral.ai/",
+      "badge": "🌪️ EFFICIENT"
     }
   ]
 }
