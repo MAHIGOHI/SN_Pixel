@@ -1,7 +1,7 @@
 {
   "tools": [
     {
-      "name": "Google Gemini",
+      "name": "CustomGPT",
       "desc": "Build your own AI chatbot in minutes.Automate support, leads & business tasks.",
       "icon": "https://www.google.com/s2/favicons?domain=customgpt.ai&sz=256",
       "link": "https://customgpt.ai/?fpr=aistore",
