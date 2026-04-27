@@ -2,10 +2,10 @@
   "tools": [
     {
       "name": "Google Gemini",
-      "desc": "Google's most capable multimodal AI model for writing, planning, data analysis, and coding.",
-      "icon": "https://www.google.com/s2/favicons?domain=gemini.google.com&sz=256",
-      "link": "https://gemini.google.com/",
-      "badge": "✨ MULTIMODAL"
+      "desc": "Build your own AI chatbot in minutes.Automate support, leads & business tasks.",
+      "icon": "https://www.google.com/s2/favicons?domain=customgpt.ai&sz=256",
+      "link": "https://customgpt.ai/?fpr=aistore",
+      "badge": "💰 BUSINESS AI"
     },
     {
       "name": "Suno AI",
