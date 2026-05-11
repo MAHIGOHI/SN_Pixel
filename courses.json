@@ -1,6 +1,20 @@
 {
   "tools": [
     {
+      "name": "Perplexity AI",
+      "desc": "AI-powered answer engine for real-time web search, deep research, and accurate information discovery.",
+      "icon": "https://www.google.com/s2/favicons?domain=perplexity.ai&sz=256",
+      "link": "https://www.perplexity.ai/",
+      "badge": "🔎 SEARCH AI"
+    },
+    {
+      "name": "Kling AI",
+      "desc": "Advanced cinematic AI video generator capable of creating realistic motion and high-quality scenes.",
+      "icon": "https://www.google.com/s2/favicons?domain=klingai.com&sz=256",
+      "link": "https://klingai.com/",
+      "badge": "🎬 VIDEO AI"
+    },
+    {
       "name": "CustomGPT",
       "desc": "Build your own AI chatbot in minutes. Automate support & leads.",
       "icon": "https://www.google.com/s2/favicons?domain=customgpt.ai&sz=256",
@@ -8,32 +22,18 @@
       "badge": "💰 BUSINESS AI"
     },
     {
-      "name": "Suno AI",
-      "desc": "Generate high-quality, full-length songs with vocals and realistic instrumentation from text prompts.",
-      "icon": "https://www.google.com/s2/favicons?domain=suno.com&sz=256",
-      "link": "https://suno.com/",
-      "badge": "🎵 MUSIC AI"
+      "name": "Gamma",
+      "desc": "Create stunning AI-powered presentations, documents, and webpages without design skills.",
+      "icon": "https://www.google.com/s2/favicons?domain=gamma.app&sz=256",
+      "link": "https://gamma.app/",
+      "badge": "📊 PRESENTATION AI"
     },
     {
-      "name": "ElevenLabs",
-      "desc": "Industry-leading AI voice generator for hyper-realistic text-to-speech and advanced voice cloning.",
-      "icon": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=256",
-      "link": "https://elevenlabs.io/",
-      "badge": "🎙️ VOICE AI"
-    },
-    {
-      "name": "OpenAI Sora",
-      "desc": "An advanced generative AI model capable of creating highly realistic and imaginative long-form videos.",
-      "icon": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "link": "https://openai.com/sora",
-      "badge": "🎥 VIDEO GEN"
-    },
-    {
-      "name": "Mistral Le Chat",
-      "desc": "A incredibly fast, multilingual, and highly capable AI assistant built on top-tier European open-weight models.",
-      "icon": "https://www.google.com/s2/favicons?domain=mistral.ai&sz=256",
-      "link": "https://chat.mistral.ai/",
-      "badge": "🌪️ EFFICIENT"
+      "name": "Leonardo AI",
+      "desc": "Generate premium-quality AI art, game assets, illustrations, and creative visuals with precision.",
+      "icon": "https://www.google.com/s2/favicons?domain=leonardo.ai&sz=256",
+      "link": "https://leonardo.ai/",
+      "badge": "🎨 IMAGE AI"
     }
   ]
 }
