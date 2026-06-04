@@ -1,39 +1,39 @@
 {
   "tools": [
     {
-      "name": "Perplexity AI",
-      "desc": "AI-powered answer engine for real-time web search, deep research, and accurate information discovery.",
-      "icon": "https://www.google.com/s2/favicons?domain=perplexity.ai&sz=256",
-      "link": "https://www.perplexity.ai/",
-      "badge": "🔎 SEARCH AI"
+      "name": "Manus AI",
+      "desc": "Autonomous AI agent for complex tasks.",
+      "icon": "https://www.google.com/s2/favicons?domain=manus.im&sz=256",
+      "link": "https://manus.im/",
+      "badge": "🤖 AI AGENT"
     },
     {
-      "name": "Kling AI",
-      "desc": "Advanced cinematic AI video generator capable of creating realistic motion and high-quality scenes.",
-      "icon": "https://www.google.com/s2/favicons?domain=klingai.com&sz=256",
-      "link": "https://klingai.com/",
-      "badge": "🎬 VIDEO AI"
+      "name": "Google AI Studio",
+      "desc": "Build and test Gemini AI apps.",
+      "icon": "https://www.google.com/s2/favicons?domain=aistudio.google.com&sz=256",
+      "link": "https://aistudio.google.com/",
+      "badge": "⚡ AI BUILDER"
     },
     {
-      "name": "CustomGPT",
-      "desc": "Build your own AI chatbot in minutes. Automate support & leads.",
-      "icon": "https://www.google.com/s2/favicons?domain=customgpt.ai&sz=256",
-      "link": "https://customgpt.ai/?fpr=aistore",
-      "badge": "💰 BUSINESS AI"
+      "name": "Cursor",
+      "desc": "AI-powered coding and debugging.",
+      "icon": "https://www.google.com/s2/favicons?domain=cursor.com&sz=256",
+      "link": "https://cursor.com/",
+      "badge": "💻 CODING AI"
     },
     {
-      "name": "Gamma",
-      "desc": "Create stunning AI-powered presentations, documents, and webpages without design skills.",
-      "icon": "https://www.google.com/s2/favicons?domain=gamma.app&sz=256",
-      "link": "https://gamma.app/",
-      "badge": "📊 PRESENTATION AI"
+      "name": "Runway",
+      "desc": "Create and edit AI videos.",
+      "icon": "https://www.google.com/s2/favicons?domain=runwayml.com&sz=256",
+      "link": "https://runwayml.com/",
+      "badge": "🎥 VIDEO AI"
     },
     {
-      "name": "Leonardo AI",
-      "desc": "Generate premium-quality AI art, game assets, illustrations, and creative visuals with precision.",
-      "icon": "https://www.google.com/s2/favicons?domain=leonardo.ai&sz=256",
-      "link": "https://leonardo.ai/",
-      "badge": "🎨 IMAGE AI"
+      "name": "ElevenLabs",
+      "desc": "Generate realistic AI voices.",
+      "icon": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=256",
+      "link": "https://elevenlabs.io/",
+      "badge": "🎙️ VOICE AI"
     }
   ]
 }
