@@ -1,11 +1,11 @@
 {
   "tools": [
     {
-      "name": "Manus AI",
-      "desc": "Autonomous AI agent for complex tasks.",
-      "icon": "https://www.google.com/s2/favicons?domain=manus.im&sz=256",
-      "link": "https://manus.im/",
-      "badge": "🤖 AI AGENT"
+      "name": "LinsCam AI",
+      "desc": "Now in closed testing. Help us improve AI-powered image understanding.",
+      "icon": "https://i.ibb.co/zhkHx2yT/linscam.png",
+      "link": "https://groups.google.com/g/ai-store-testers",
+      "badge": "From LINS IO"
     },
     {
       "name": "Google AI Studio",
