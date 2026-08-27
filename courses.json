@@ -1,39 +1,39 @@
 {
   "tools": [
     {
+      "name": "Kling AI",
+      "desc": "Create realistic AI videos with daily free credits.",
+      "icon": "https://www.google.com/s2/favicons?domain=klingai.com&sz=256",
+      "link": "https://klingai.com/",
+      "badge": "🎥 FREE VIDEO AI"
+    },
+    {
+      "name": "Manus",
+      "desc": "An AI agent that can plan, execute, and complete complex tasks.",
+      "icon": "https://www.google.com/s2/favicons?domain=manus.im&sz=256",
+      "link": "https://manus.im/",
+      "badge": "🤖 AI AGENT"
+    },
+    {
       "name": "LinsCam AI",
       "desc": "Now in closed testing. Help us improve AI-powered image understanding.",
       "icon": "https://i.ibb.co/zhkHx2yT/linscam.png",
       "link": "https://groups.google.com/g/ai-store-testers",
-      "badge": "From LINS IO"
+      "badge": "FROM LINS IO"
     },
     {
-      "name": "Google AI Studio",
-      "desc": "Build and test Gemini AI apps.",
-      "icon": "https://www.google.com/s2/favicons?domain=aistudio.google.com&sz=256",
-      "link": "https://aistudio.google.com/",
-      "badge": "⚡ AI BUILDER"
+      "name": "Seedance",
+      "desc": "Generate cinematic AI videos from text and images.",
+      "icon": "https://www.google.com/s2/favicons?domain=seedance.ai&sz=256",
+      "link": "https://seedance.ai/",
+      "badge": "🔥 TRENDING VIDEO AI"
     },
     {
-      "name": "Cursor",
-      "desc": "AI-powered coding and debugging.",
-      "icon": "https://www.google.com/s2/favicons?domain=cursor.com&sz=256",
-      "link": "https://cursor.com/",
-      "badge": "💻 CODING AI"
-    },
-    {
-      "name": "Runway",
-      "desc": "Create and edit AI videos.",
-      "icon": "https://www.google.com/s2/favicons?domain=runwayml.com&sz=256",
-      "link": "https://runwayml.com/",
-      "badge": "🎥 VIDEO AI"
-    },
-    {
-      "name": "ElevenLabs",
-      "desc": "Generate realistic AI voices.",
-      "icon": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=256",
-      "link": "https://elevenlabs.io/",
-      "badge": "🎙️ VOICE AI"
+      "name": "Krea",
+      "desc": "Create and edit AI images and videos with a real-time creative workflow.",
+      "icon": "https://www.google.com/s2/favicons?domain=krea.ai&sz=256",
+      "link": "https://www.krea.ai/",
+      "badge": "⚡ CREATIVE AI"
     }
   ]
 }
