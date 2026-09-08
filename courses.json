@@ -1,11 +1,11 @@
 {
   "tools": [
     {
-      "name": "Kling AI",
-      "desc": "Create realistic AI videos with daily free credits.",
-      "icon": "https://www.google.com/s2/favicons?domain=klingai.com&sz=256",
-      "link": "https://klingai.com/",
-      "badge": "🎥 FREE VIDEO AI"
+      "name": "GPT-6 Astra",
+      "desc": "Next-generation AI for advanced reasoning, coding and complex tasks.",
+      "icon": "https://openai.com/favicon.ico",
+      "link": "https://openai.com/index/gpt-6-astra/",
+      "badge": "🤖🧟LATEST AI MODEL"
     },
     {
       "name": "Manus",
