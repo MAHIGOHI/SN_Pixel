@@ -1,67 +1,39 @@
 {
-"tools": [
-{
-"name": "LinsCam AI",
-"desc": "AI-powered image understanding app, officially available on Google Play.",
-"icon": "https://i.ibb.co/zhkHx2yT/linscam.png",
-"link": "https://play.google.com/store/apps/details?id=com.LinsCam.io",
-"badge": "🚀 FROM LINS IO"
-},
-{
-"name": "GPT-6 Astra",
-"desc": "Advanced AI for reasoning, coding and complex tasks.",
-"icon": "https://openai.com/favicon.ico",
-"link": "https://openai.com/index/gpt-6-astra/",
-"badge": "🤖 AI MODEL"
-},
-{
-"name": "Claude",
-"desc": "Explore Claude's latest AI models, including Haiku 5.5, for coding, writing, reasoning and productivity.",
-"icon": "https://www.google.com/s2/favicons?domain=claude.ai&sz=256",
-"link": "https://claude.ai/",
-"badge": "🔥 NEW MODEL"
-},
-{
-"name": "GroqCloud",
-"desc": "Access fast AI inference and hosted models, including Qwen 3.8 27B.",
-"icon": "https://www.google.com/s2/favicons?domain=groq.com&sz=256",
-"link": "https://groq.com/",
-"badge": "⚡ FAST AI"
-},
-{
-"name": "Mistral AI",
-"desc": "Explore powerful AI models and assistants, including the latest Mistral Large 4.",
-"icon": "https://www.google.com/s2/favicons?domain=mistral.ai&sz=256",
-"link": "https://mistral.ai/",
-"badge": "🧠 NEW MODEL"
-},
-{
-"name": "DeepSeek",
-"desc": "AI assistant for complex reasoning, problem-solving, coding and research.",
-"icon": "https://www.google.com/s2/favicons?domain=deepseek.com&sz=256",
-"link": "https://www.deepseek.com/",
-"badge": "💡 AI REASONING"
-},
-{
-"name": "Manus",
-"desc": "An AI agent that can plan, execute and complete complex tasks.",
-"icon": "https://www.google.com/s2/favicons?domain=manus.im&sz=256",
-"link": "https://manus.im/",
-"badge": "🤖 AI AGENT"
-},
-{
-"name": "Seedance",
-"desc": "Generate cinematic AI videos from text and images.",
-"icon": "https://www.google.com/s2/favicons?domain=seedance.ai&sz=256",
-"link": "https://seedance.ai/",
-"badge": "🔥 VIDEO AI"
-},
-{
-"name": "Krea",
-"desc": "Create and edit AI images and videos with real-time creative tools.",
-"icon": "https://www.google.com/s2/favicons?domain=krea.ai&sz=256",
-"link": "https://www.krea.ai/",
-"badge": "⚡ CREATIVE AI"
-}
-]
+  "tools": [
+    {
+      "name": "LinsCam AI",
+      "desc": "AI-powered image understanding app, officially available on Google Play.",
+      "icon": "https://i.ibb.co/zhkHx2yT/linscam.png",
+      "link": "https://play.google.com/store/apps/details?id=com.LinsCam.io",
+      "badge": "🚀 FROM LINS IO"
+    },
+    {
+      "name": "Gemini 4 Argon",
+      "desc": "Google's latest flagship AI model for advanced reasoning, coding, research and complex tasks.",
+      "icon": "https://www.google.com/s2/favicons?domain=gemini.google.com&sz=256",
+      "link": "https://gemini.google.com/",
+      "badge": "🔥 NEW MODEL"
+    },
+    {
+      "name": "Claude Haiku 5.5",
+      "desc": "Anthropic's fast and efficient AI model for coding, writing and everyday problem-solving.",
+      "icon": "https://www.google.com/s2/favicons?domain=claude.ai&sz=256",
+      "link": "https://claude.ai/",
+      "badge": "⚡ FAST AI"
+    },
+    {
+      "name": "Meta Muse Wonder",
+      "desc": "Meta's advanced AI models designed for agentic tasks, coding and complex workflows.",
+      "icon": "https://www.google.com/s2/favicons?domain=meta.ai&sz=256",
+      "link": "https://www.meta.ai/",
+      "badge": "🤖 AI AGENT"
+    },
+    {
+      "name": "DeepSeek V4.1 Flash",
+      "desc": "A recent DeepSeek model release for fast AI inference and efficient problem-solving.",
+      "icon": "https://www.google.com/s2/favicons?domain=deepseek.com&sz=256",
+      "link": "https://www.deepseek.com/",
+      "badge": "⚡ NEW MODEL"
+    }
+  ]
 }
